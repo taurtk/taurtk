@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**taurtk/taurtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**taurtk/taurtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin-https://www.linkedin.com/in/taufique-khan-63527a1a9/ , gmail- taurtk@gmail.com...
 - 😄 Pronouns: AARON...
 - ⚡ Fun fact: </virgin>...
--->
+
